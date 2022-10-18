@@ -2,10 +2,8 @@ print("Welcome to the crypto-currencie converter")
 print("To get started enter '1'")
 print("For instructions enter '2'")
 
-
 #hardcoded list of coins to be changed later
 coinList = ['bit coin', 'doge coin', 'light coin']
-
 
 isValid = None
 while isValid is None:
